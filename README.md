@@ -1,6 +1,6 @@
 # Transform2020
 
-This is for Transform 2020, a fully online geoscience conference.
+This is for Transform 2020, a fully online geoscience conference. The notebook (only 1) will be covering basic python syntax, packages, and basic subsurface workflows. 
 
 Instructions/Installation for use with Colab:
 
