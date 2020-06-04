@@ -1,6 +1,6 @@
 # Transform2020
 
-This is for [Transform 2020](https://transform2020.sched.com/), a fully online geoscience conference. The notebook (only 1) will be covering basic python syntax, packages, and basic subsurface workflows using Pandas, Numpy, [Lasio](https://github.com/kinverarity1/lasio) and [Striplog](https://github.com/agile-geoscience/striplog). 
+This is for [Transform 2020](https://transform2020.sched.com/), a fully online geoscience conference. The notebook (only 1) will be covering basic python syntax, packages, and basic subsurface workflows using Pandas, Numpy, Matplotlib, [Lasio](https://github.com/kinverarity1/lasio) and [Striplog](https://github.com/agile-geoscience/striplog). 
 
 Instructions/Installation for use with [Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb):
 
