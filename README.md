@@ -4,7 +4,7 @@ This is for Transform 2020, a fully online geoscience conference. The notebook (
 
 Instructions/Installation for use with Colab:
 
-1. Make a google account (free will work fine, no need for Colab Pro)
+1. Make a google account, if you have a gmail, you have one! (free will work fine, no need for Colab Pro)
 2. Download the t20-intro folder from this repository (green button in the upper right) and drop folder into Google drive (you will have to unzip it)
 3. Install Google Colab in Google Drive (search Colaboratory in connected apps)
 4. This needs to be in the browser google drive, not the local folder.
